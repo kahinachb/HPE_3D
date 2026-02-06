@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.vscode/
+*.csv
+*.pt
+*.mp4
+*.jpg
+4279
+StraighWalking
+sat-hmr
+nlf_env
+weights
